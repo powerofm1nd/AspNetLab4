@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "admin"
+    },
+    {
+      "id": 1,
+      "name": "bob"
+    },
+    {
+      "id": 2,
+      "name": "alex"
+    },
+    {
+      "id": 3,
+      "name": "jack"
+    },
+    {
+      "id": 4,
+      "name": "helen"
+    },
+    {
+      "id": 5,
+      "name": "carl"
+    }
+  ]
+}

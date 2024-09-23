@@ -1,0 +1,29 @@
+{
+    "books" : [
+        {
+            "id": 1,
+            "name": "The Art Of War",
+            "author": "Sun Tzu"
+        },
+        {
+            "id": 2,
+            "name": "The Anarchist Cookbook",
+            "author": "William Powell"
+        },
+        {
+            "id": 3,
+            "name": "Ego Is the Enemy",
+            "author": "Ryan Holiday"
+        },
+        {
+            "id": 4,
+            "name": "The Subtle Art of Not Giving a F*ck",
+            "author": "Mark Manson"
+        },
+        {
+            "id": 5,
+            "name": "Who Moved My Cheese?",
+            "author": "Spencer Johnson"
+        }
+    ]
+}
