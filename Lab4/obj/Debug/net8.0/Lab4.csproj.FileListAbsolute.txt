@@ -25,3 +25,4 @@ E:\asp.net projects\Lab4\Lab4\obj\Debug\net8.0\Lab4.genruntimeconfig.cache
 E:\asp.net projects\Lab4\Lab4\obj\Debug\net8.0\ref\Lab4.dll
 E:\asp.net projects\Lab4\Lab4\bin\Debug\net8.0\myConfig\books.json
 E:\asp.net projects\Lab4\Lab4\bin\Debug\net8.0\myConfig\users.json
+E:\asp.net projects\Lab4\Lab4\obj\Debug\net8.0\Lab4.sourcelink.json

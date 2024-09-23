@@ -11,13 +11,11 @@ var app = builder.Build();
 
 app.MapGet("/", (HttpContext httpContext) =>
 {
-    var body = "<a href='library/books'>/library/</a><br>"
+    var body = "<a href='library/'>/library/</a><br>"
                    + "<a href='library/books'>/library/books</a><br>"
                    + "<a href='library/profile/'>/library/profile</a>";
     
     httpContext.Response.WriteAsync(body);
-    
-    return;
 });
     
 app.MapGet("/library", () =>
